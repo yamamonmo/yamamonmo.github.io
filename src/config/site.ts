@@ -4,7 +4,7 @@ export const SITE: SiteConfig = {
     website: "https://yamamonmo.github.io",
     author: "yamamonmo",
     desc: "あいうえお",
-    title: "yamamonmo",
+    title: "yamaaaaamonmooooo",
     ogImage: "shannon.webp",
     postPerPage: 5,
     favicon: "/favicon.svg",
