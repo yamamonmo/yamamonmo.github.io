@@ -2,7 +2,7 @@ import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, Ana
 
 export const SITE: SiteConfig = {
     website: "https://yamamonmo.github.io",
-    author: "Claude Shannon",
+    author: "yamamonmo",
     desc: "あいうえお",
     title: "yamamonmo",
     ogImage: "shannon.webp",
